@@ -5,7 +5,7 @@
 class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
-<b>Am Just A Donlee Adv Auto Filter Bot....😉</b>
+<b>ഞാൻ ഓട്ടോ ഫിൽറ്റർ ബോട്ട് ആണ് നിങ്ങൾക്കും ഇതേപോലെ ബോട്ട് ഉണ്ടാക്കണമെങ്കിൽ എന്റ ഓണർ ഉണ്ടാക്കി തരുന്നതാണ് ....😉</b>
 
 <b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
 <b>Watch the video below to build an DonLee Adv Autofilter bot like me...</b>
@@ -42,7 +42,7 @@ class Translation(object):
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@Mo_Tech_YT
+@new_movies_group_2021
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
